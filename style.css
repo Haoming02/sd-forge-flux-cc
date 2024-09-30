@@ -1,0 +1,27 @@
+#flux-img-txt, #flux-img-img {
+    height: 100%;
+    width: auto;
+    margin: auto;
+}
+
+#flux-cc-txt, #flux-cc-img {
+    user-select: none;
+}
+
+#flux-cc-txt button, #flux-cc-txt label {
+    border-radius: 0.5em;
+}
+
+#flux-cc-img button, #flux-cc-img label {
+    border-radius: 0.5em;
+}
+
+#flux-cc-txt .style-rows {
+    align-items: end;
+    gap: 1em;
+}
+
+#flux-cc-img .style-rows {
+    align-items: end;
+    gap: 1em;
+}
